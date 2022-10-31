@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder GraphicsEffects/Assets": {
+                    "watch": "@GEMROOT:GraphicsEffects@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder GraphicsEffects/Registry": {
+                    "watch": "@GEMROOT:GraphicsEffects@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}

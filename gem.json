@@ -1,0 +1,23 @@
+{
+    "gem_name": "GameScripts",
+    "display_name": "Game Scripts",
+    "license": "Apache-2.0 or MIT",
+    "license_url": "${LicenseURL}",
+    "origin": "AMZN-Phil",
+    "origin_url": "${OriginURL}",
+    "type": "Code",
+    "summary": "A Gem that adds some effects to Atom",
+    "canonical_tags": [
+        "Gem"
+    ],
+    "user_tags": [
+        "LBC",
+        "GameScripts"
+    ],
+    "icon_path": ".",
+    "requirements": "${Requirements}",
+    "documentation_url": "${DocumentationURL}",
+    "dependencies": [],
+    "repo_uri": "${RepoURI}",
+    "restricted": "GameScripts"
+}
