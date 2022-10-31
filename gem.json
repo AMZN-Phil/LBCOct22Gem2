@@ -15,7 +15,7 @@
         "GameScripts"
     ],
     "icon_path": ".",
-    "requirements": "${Requirements}",
+    "requirements": "",
     "documentation_url": "${DocumentationURL}",
     "dependencies": [],
     "repo_uri": "https://github.com/AMZN-Phil/LBCOct22Gem2.git",
